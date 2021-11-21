@@ -1,0 +1,14 @@
+GET  http://localhost:8480/my-app/api/v1/events/all
+###
+GET  http://localhost:8480/my-app/api/v1/devices/all
+###
+GET  http://localhost:8480/my-app/api/v1/devices/1/id
+###
+GET  http://localhost:8480/my-app/api/v1/events/1/id
+###
+GET  http://localhost:8480/my-app/api/v1/projects/1/id
+###
+GET  http://localhost:8480/my-app/api/v1/projects/2/id
+###
+GET  http://localhost:8480/my-app/api/v1/projects/all
+###
